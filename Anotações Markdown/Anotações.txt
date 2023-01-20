@@ -1,0 +1,13 @@
+Este doc. foi feito para poder utilizar um git commit, e também,
+para anotar algumas informações sobre markdown
+
+Quebra de linha - enter 2 vezes 
+
+Negrito - **_** ex: **Função:**
+
+# - h1
+## - h2
+### - h3
+.
+.
+###### - h6
